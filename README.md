@@ -40,3 +40,5 @@ http://user:pass@ip:port
 ````
 python3 bot.py
 ````
+
+👉 Join Chanel For Update New Bot https://t.me/ZonaAirdr0p

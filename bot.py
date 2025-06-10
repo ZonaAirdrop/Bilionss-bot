@@ -41,7 +41,7 @@ class BillionsNetwork:
     def welcome(self):
         print(
             f"""
-        {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Billions Automation - BOT
+        {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Bilionss - BOT
             """
             f"""
         {Fore.GREEN + Style.BRIGHT}Community {Fore.YELLOW + Style.BRIGHT}<zona airdrop>

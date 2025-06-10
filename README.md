@@ -41,4 +41,10 @@ http://user:pass@ip:port
 python3 bot.py
 ````
 
+#📒 Disclaimer
+
+If you use multiple accounts, use one account per browser so that the bot does not experience errors. 
+
+If one account one browser. session your ID will change and cause an error in the bot
+
 👉 Join Chanel For Update New Bot https://t.me/ZonaAirdr0p

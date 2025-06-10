@@ -44,7 +44,7 @@ class BillionsNetwork:
         {Fore.GREEN + Style.BRIGHT}Auto Claim {Fore.BLUE + Style.BRIGHT}Billions Automation - BOT
             """
             f"""
-        {Fore.GREEN + Style.BRIGHT}Community {Fore.YELLOW + Style.BRIGHT}<YetiDAO X Cryptodai3>
+        {Fore.GREEN + Style.BRIGHT}Community {Fore.YELLOW + Style.BRIGHT}<zona airdrop>
             """
         )
 

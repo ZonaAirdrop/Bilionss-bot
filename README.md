@@ -41,7 +41,7 @@ http://user:pass@ip:port
 python3 bot.py
 ````
 
-#📒 Disclaimer
+📒 Disclaimer
 
 If you use multiple accounts, use one account per browser so that the bot does not experience errors. 
 

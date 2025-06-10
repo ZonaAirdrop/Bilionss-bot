@@ -40,6 +40,12 @@ http://user:pass@ip:port
 ````
 python3 bot.py
 ````
+🆘 Follow on-screen questions:
+
+Choose proxy type (1 / 2 / 3)
+If using proxy, choose whether to rotate bad proxies (y / n) no proxy no 3
+
+The bot will loop through all accounts, check status, and claim daily rewards.
 
 📒 Disclaimer
 

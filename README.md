@@ -5,6 +5,7 @@
 * Auto Get Account Info
 * Auto Claim Daily Reward
 * Suport Proky
+* Suport Multi Acount X500
 * Suport VPS And Termux
 
 # Installation
@@ -24,4 +25,18 @@ pip3 install -r requirements.txt
 ````
 session_id=eyJhbGciOiJ... (your session ID here)
 session_id=eyJhbGciOiJ... (next session)
+````
+- See Below How to retrieve Session ID
+
+[![IMG-20250610-214255.jpg](https://i.postimg.cc/mkpf2CJD/IMG-20250610-214255.jpg)](https://postimg.cc/8fvnZJ1Q)
+
+- Proky (Optional) `proxy.txt`
+````
+http://127.0.0.1:8080
+socks5://127.0.0.1:9050
+http://user:pass@ip:port
+````
+- Running Bot
+````
+python3 bot.py
 ````

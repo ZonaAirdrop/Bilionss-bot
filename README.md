@@ -19,3 +19,9 @@ cd Bilionss-bot
 ````
 pip3 install -r requirements.txt
 ````
+- Configuration Files
+`cookies.txt` nanao cookies.txt
+````
+session_id=eyJhbGciOiJ... (your session ID here)
+session_id=eyJhbGciOiJ... (next session)
+````
